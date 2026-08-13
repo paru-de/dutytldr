@@ -1,7 +1,7 @@
 # The Copied Factory
 #alliance #shb
 
-## [Serial-jointed Command Model] 1/4
+## 1/4 [Serial-jointed Command Model] 
 
 ### Tank
 - **TB**: Clanging Blow
@@ -17,7 +17,7 @@
 - Systematic Airstrike: Avoid circular untelegraphed AoE dropped along the paths
 - Energy Ring: Expanding Donut
 
-## [Hobbes] 2/4
+## 2/4 [Hobbes] 
 
 ### Platforms
 *Short-Range Missile: Circle AoE's on players while platform mechanics are happening*
@@ -34,7 +34,7 @@
 - Nozzles: Keep eyes on back for AoE patterns
 - Ring Laser: Inward-travelling Donut. 
 
-## [Engels] 3/4
+## 3/4 [Engels] 
 
 ### Tank
 - **TB**: Precision Guided Missile
@@ -51,7 +51,7 @@
 #### Phase 2:
 - Marx Activation: Traveling Line AoE, W-E starting from from front or back
 
-## [9S-operated Walking Fortress] 4/4
+## 4/4 [9S-operated Walking Fortress] 
 
 
 ### Tank
