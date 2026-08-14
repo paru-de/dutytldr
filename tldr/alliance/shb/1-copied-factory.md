@@ -9,7 +9,7 @@
 ### Healer
 - **Raidwide**: Forceful Impact
 
-#### Notable mechanics
+### Notable mechanics
 - Energy Assault: Conal AoE
 - Systematic Targeting: Move lasers to the sides
 - Centrifugal Spin: Side is safe
@@ -19,8 +19,10 @@
 
 ## 3/6 [Hobbes] 
 
-### Platforms
+**Platforms**
+
 *Short-Range Missile: Circle AoE's on players while platform mechanics are happening*
+
 - Alliance A: Alternate between rows, watch for red eyes
 - Alliance B: Don't get pushed into wall
 - Alliance C: Alternate between vents, watch for bubbles
@@ -42,13 +44,14 @@
 ### Healer
 - **Raidwide**: Diffuse Laser
 
-### Notable Mechanics
-#### Phase 1
+### Notable mechanics
+**Phase 1**
 - Marx Smash ARMS L/R: Cleave on side 
 - Marx Smash ARMS HIGH: Front, Center Safe
 - Marx Smash ARMS LOW: Back, Side Safe
 - Energy Barrage: Mind the center laser
-#### Phase 2:
+
+**Phase 2**
 - Marx Activation: Traveling Line AoE, W-E starting from from front or back
 
 ## 6/6 [9S-operated Walking Fortress] 
