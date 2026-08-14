@@ -2,7 +2,7 @@
 #alliance #shb
 
 
-*"...in which we lose track of safe zones."*
+*"...in which we do some PvP."*
 
 ## 1/6 [813P-operated Aegis Unit]
 
@@ -29,7 +29,7 @@ Interrupt **Maneuver: Volt Array**. Applies raidwide Paralysis.
 **Raidwide**: Maneuver: Volt Array
 
 ### Notable mechanics
-- Maneuver: High-powered Laser: Stack marker, *do not aim at other parties*
+- Maneuver: High-powered Laser: Stack marker, **do not aim at other parties**
 - Formation: Sharp Turn: Watch sword
   - Outside in direction of travel: Center safe
   - Inside in direction of travel: Stand outside, watch Line AoE from other units
@@ -52,7 +52,7 @@ Interrupt **Maneuver: Volt Array**. Applies raidwide Paralysis.
   - R030: Circle AoE centered on pods
   - All numbers the same - stand in-between pods
   - Different numbers: Look for two R010
-  - **Mind the tethers shifting which pod does what**
+  - **Mind the tethers shifting which pods executes R010/030**
 
 ## 6/6 [Compound 2P]
 
