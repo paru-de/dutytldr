@@ -2,7 +2,7 @@
 
 #alliance #sb
 
-"*...in which we fail basic maths.*
+"*...in which we fail basic maths."*
 
 ## 1/7 [Famfrit, the Darkening Cloud]
 
@@ -85,7 +85,7 @@
  - Alliance B: Avoid missiles
  - Alliance C: Stop moving, sheath weapon at end of timer.
 
- ## 7/7 [Yiazmat]
+## 7/7 [Yiazmat]
 
 ### Tank
 *Tank boss in center. Separate adds.*
