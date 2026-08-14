@@ -3,13 +3,13 @@
 
 ## 1/6 [813P-operated Aegis Unit]
 
-## Tank
+### Tank
 **TB**: Firing Order: Anti-personnel Laser
 
-## Healer
+### Healer
 **Raidwide**: Maneuver: Diffusion Cannon
 
-## Notable mechanics
+### Notable mechanics
 - Maneuver: Beam Cannons: Overlapping AoE slowly focuses to create a safe-zone. Look for darker, shrinking areas.
 - Maneuver: Refraction Cannons: Untelegraphed Cone AoE. Stand opposite of cannon.
 - Program: Life's Last Song: Find opening in golden rings.
@@ -19,13 +19,13 @@ Interrupt **Maneuver: Volt Array**. Applies raidwide Paralysis.
 
 ## 3/6 [Superior Flight Units]
 
-## Tank
+### Tank
 **TB**: Maneuver: High-powered Laser (Line)
 
-## Healer
+### Healer
 **Raidwide**: Maneuver: Volt Array
 
-## Notable mechanics
+### Notable mechanics
 - Maneuver: High-powered Laser: Stack marker, *do not aim at other parties*
 - Formation: Sharp Turn: Watch sword
   - Outside in direction of travel: Center safe
@@ -35,13 +35,13 @@ Interrupt **Maneuver: Volt Array**. Applies raidwide Paralysis.
 
 ## 4/6 [905P-operated Heavy Artillery Unit]
 
-## Tank
+### Tank
 **TB**: Maneuver: Precision Guided Missile
 
-## Healer
+### Healer
 **Raidwide**: Maneuver: Missile Command (one hit for each Flight Unit still alive)
 
-## Notable mechanics
+### Notable mechanics
 - Operation: Activate Laser Turret: Stand on outside edge of top laser cannons, move into bottom laser cannon once safe
 - Maneuver: Impact Crusher: Third jump location becomes donut
 - Operation: Pod Program
@@ -53,13 +53,13 @@ Interrupt **Maneuver: Volt Array**. Applies raidwide Paralysis.
 
 ## 6/6 [Compound 2P]
 
-## Tank
+### Tank
 **TB**: Compound Pod: R012 (Magic Vuln)
 
-## Healer
+### Healer
 **Raidwide**: Centrifugal Slice
 
-## Notable mechanics
+### Notable mechanics
 - Prime Blade:
   - Sword in ground: Donut
   - Sword above head: Cone in direction she's facing
