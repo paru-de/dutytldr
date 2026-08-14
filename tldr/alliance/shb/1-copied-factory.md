@@ -1,6 +1,9 @@
 # The Copied Factory
 #alliance #shb
 
+
+*"...in which we get dizzy."*
+
 ## 1/6 [Serial-jointed Command Model] 
 
 ### Tank
