@@ -1,6 +1,9 @@
 # The Puppets' Bunker
 #alliance #shb
 
+
+*"...in which we lose track of safe zones."*
+
 ## 1/6 [813P-operated Aegis Unit]
 
 ### Tank
