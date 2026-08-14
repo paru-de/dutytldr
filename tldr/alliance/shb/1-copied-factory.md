@@ -2,7 +2,7 @@
 #alliance #shb
 
 
-*"...in which we get dizzy fighting GLaDOS.*
+*"...in which we get dizzy fighting GLaDOS.*"
 
 ## 1/6 [Serial-jointed Command Model] 
 
