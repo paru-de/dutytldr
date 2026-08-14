@@ -69,7 +69,7 @@ Separate both bosses
 - **TB**: Darker Note (each tank, circular AoE)
 
 ### Healer
-- **Raidwide**: Screaming Score, Eminence
+- **Raidwide**: Screaming Score, Eminence (down for the count)
 
 ### Notable mechanics
 - Made Magic: Half Cleave in direction of turning wheel
