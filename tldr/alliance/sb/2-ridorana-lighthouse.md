@@ -2,7 +2,7 @@
 
 #alliance #sb
 
-"*...in which we fail basic maths."*
+"*...in which we fail at basic maths."*
 
 ## 1/7 [Famfrit, the Darkening Cloud]
 
