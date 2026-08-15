@@ -2,13 +2,12 @@
 
 #alliance #hw
 
-*"Oh no.*"
+*"Oh no."*
 
 ## 1/7 [Deathgaze Hollow]
 
 ### Healer
 
-**Raidwide**:
 **Doom**: Cast by Doomsay on up to 2 random players. Esuna.
 
 ### Notable mechanics
@@ -60,8 +59,6 @@
 
 **Keep add away from boss**
 
-**TB**: 
-
 ### Healer
 
 **Raidwide**: Thirty Souls, Blinding shadow (after cocoon phase)
@@ -99,6 +96,6 @@
 - Boss now has guaranteed crits.
 - Stack marker with eye: Stack up, face away from marked player.
 - Glowing gate: Some players must move into it and kill an add.
-- Tower phase: Do not go into the center circle. Tanks only.
+- Tower phase: Do not go into the center circle if you're not the tank.
 - Earth Shaker: Spread out. Conal AoE starting from boss position towards marked players.
   
