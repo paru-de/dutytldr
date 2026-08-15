@@ -13,8 +13,8 @@
 
 ### Notable mechanics
 - Colossal Impact
- - Glowing red mouth: Sides are safe
- - Boss moves back: Center is safe
+  - Glowing red mouth: Sides are safe
+  - Boss moves back: Center is safe
 - Replicate: Cubes show order. Clones also cast Colossal Impact
 - Spheroids: When paired with Magic Artillery Alpha: Alternating Line AoE's.
 - Boxes: Use to avoid knockbacks. Mind simultanous Colossal Impact.
