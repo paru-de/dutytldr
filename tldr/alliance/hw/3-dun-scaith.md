@@ -84,7 +84,7 @@
 *Tower phase: Get into the center circle.*
 
 **TB**: [L] Hollow Camisado. 
-  - Very hard hitting due to him critting. Consider using invuln or tank swapping immediately after if you have sprout healers.
+  - Very hard hitting due to him critting. Consider using invulnerability.
 
 ### Healer
 
