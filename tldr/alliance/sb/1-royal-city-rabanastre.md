@@ -4,8 +4,6 @@
 
 *"...in which we turn into zombie chickens."*
 
-### Notable mechanics
-
 ## 1/9 [Mateus, the Corrupt]
 
 ### Tank
