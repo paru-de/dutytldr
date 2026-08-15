@@ -77,7 +77,7 @@ Separate both bosses
 - Recreate Structure: AoE from below the floor
 - Mixed Signals: Stand in line of red signal
 - Heavy Arms
- - Pillar Arms: Center is safe
- - Pillar: Side is safe
+  - Pillar Arms: Center is safe
+  - Pillar: Side is safe
 - The Final Song: colored AoE circle, point and match color of your half-ring towards it
 - Towerfall: Avoid falling pillars, shadows can be misleading
