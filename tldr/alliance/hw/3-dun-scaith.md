@@ -81,13 +81,14 @@
 ## 7/7 [Diabolos]
 
 ### Tank
-*Tower phase: Get into the center circle*
+*Tower phase: Get into the center circle.*
 
 **TB**: [L] Hollow Camisado
 
 ### Healer
 
 **Raidwide**: Ruinous Omen, Ultimate (after Life Gate), Pavor Inanis, Hollow Omen
+
 **Doom**: Hollow Nightmare (Esuna)
 
 ### Notable mechanics
