@@ -38,6 +38,6 @@ Possible patterns
  *  *  *   |           |  *  *  *
  *         |  *     *  |     *
 
- West/East |   Center  |  Cardinals ... are safe
+ West/East |   Center  |  Intercardinals ... are safe
 ```
 - Algedon: Opposite front edge of boss is safe.
