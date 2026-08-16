@@ -16,8 +16,8 @@
 ### Notable mechanics
 
 - Exoterikos
-  - Purple, Triangle: Cone AoE
-  - Pink, Square: Half-wide Arena Cleave
+  - Purple: Cone AoE
+  - Pink: Half-wide Arena Cleave
 - Astral Flow: Floor rotates 90° in direction of arrows. Snakes:
   - Go into **one quadrant** of the arena. Divide it roughly into 4 squares.
   - Rotate **only the safezone or AoE in this quadrant** 90° in your head.
