@@ -18,10 +18,15 @@
 - Exoterikos
   - Purple, Triangle: Cone AoE
   - Pink, Square: Half-wide Arena Cleave
-- Astral Flow: Floor rotates 90° in direction of arrows.
-  - Go into **one quadrant** of the arena.
+- Astral Flow: Floor rotates 90° in direction of arrows. Snakes:
+  - Go into **one quadrant** of the arena. Divide it roughly into 4 squares.
   - Rotate **only the safezone or AoE in this quadrant** 90° in your head.
-  - Do not over-complicate this. Don't imagine the whole platform, just one of four quadrants.
+
+```
+o = Snek AoE
+x o rotated 90° to the left o o so we stand on an s: x o
+x o                         x x                      s s
+```
 - Astral Eclipse
   - Move West.
   - Check patterns in the sky; order is West, South, East
