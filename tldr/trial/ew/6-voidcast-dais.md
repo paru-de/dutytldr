@@ -13,7 +13,7 @@
 ### Notable mechanics
 - Crescent Blade: Half-wide cleave on side of sword.
   - Repeats after Lingering Spark
-- Shadow Crescent: Half-wide cleave on side of sword **followed** by Out.
+- **Shadow Crescent**: Half-wide cleave on side of sword **followed by Out**.
 - Tower Phase: Healer has to position in-between towers. Multiple players per tower.
   - Crosshair: Bait Line AoE away before moving out of proximity markers.
 - Gale Sphere:
