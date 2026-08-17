@@ -6,7 +6,7 @@
 
 **TB**: Hubris (both tanks, cleaves)
 
- **Add phase**: Use LB (*"4 seconds until oblivion is sealed..."*)
+ **LB**: After add dies (*"4 seconds until oblivion is sealed..."*).
 
 ### Healer
 
