@@ -20,4 +20,4 @@
 - Six-bladed Khadga: Six half-cleaves in order of appearance.
   - Traveling clockwise or counterclockwise.
   - Last three are a repeat of the first three.
-- The Face of Wrath / Delight: Half that has same color as flashed mask will explode.
+- The Face of Wrath / Delight: Half matching the flashed mask's color explodes.
