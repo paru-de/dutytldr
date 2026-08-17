@@ -9,6 +9,7 @@
 ### Healer
 
 **Raidwide**: Heroes's Radiance, Exodus (Ultimate, after crystals), Radiant Halo
+
 **Echoes**: [Multi] Stack Marker
 
 ### Notable mechanics
